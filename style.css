@@ -1,0 +1,15 @@
+.tim{
+    width: 150px !important;
+    height: 100px;
+    position: relative;
+    left: 600px;
+    top: 300px;
+}
+p{
+    color: white !important;
+    position: absolute;
+    left: 500px;
+    top: 440px;
+    font-size: 30px;
+    font-weight: bolder;
+}
